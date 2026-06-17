@@ -1,6 +1,6 @@
 # Embedded IoT Portfolio — GitHub Demos
 
-Open-source firmware demos showcasing **Arduino / STM32 / ESP32** edge development with a clear path to **AWS IoT Core**. Built for overseas clients, Upwork proposals, and IT outsourcing collaborations.
+Open-source firmware demos showcasing **Arduino / STM32 / ESP32** edge development with a clear path to **AWS IoT Core**. Built for IT  collaborations.
 
 ## Demo Index
 
