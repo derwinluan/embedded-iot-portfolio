@@ -1,0 +1,17 @@
+# Arduino / PlatformIO
+*.hex
+*.elf
+*.bin
+build/
+.pio/
+.vscode/.browse.c_cpp.db*
+.vscode/ipch
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Secrets (keep config.h templates, do not commit real WiFi keys)
+**/secrets.h
+.env
