@@ -84,7 +84,7 @@ cd rpi-rgb-led-matrix
 *Current working directory layout should be:* `./home/project/rpi-rgb-led-matrix`
 
 ---
-
+<img src="https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/RaspberryPi4B-LED/RaspberryPi_06.jpg" width="600" />
 ### 2. 🔇 System Optimization: Disable Onboard Audio
 The built-in audio subsystem conflicts with the precise hardware PWM timings needed for the LED matrix.
 
