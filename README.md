@@ -73,7 +73,7 @@ Connect the Raspberry Pi 4B GPIO pins to the HUB75 interface on the LED screen.
 <img src="https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/RaspberryPi4B-LED/RaspberryPi_08.jpg" width="600" />
 <img src="https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/RaspberryPi4B-LED/RaspberryPi_09.jpg" width="600" />
 
-<img src="https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/video/youtube.png" width="153" /> Visit Video page: [Driven LED Screen Based on Raspberry Pi 4B](https://youtu.be/PBej1xT8M1k).
+<img src="https://github.com/derwinluan/embedded-iot-portfolio/blob/main/video/youtube.png" width="153" /> Visit Video page: [Driven LED Screen Based on Raspberry Pi 4B](https://youtu.be/PBej1xT8M1k).
 ### 1. 📥 Clone the Source Repository
 Open your terminal, create a project workspace, and clone the authoritative open-source LED matrix library:
 
