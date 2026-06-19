@@ -65,7 +65,7 @@ Connect the Raspberry Pi 4B GPIO pins to the HUB75 interface on the LED screen.
 * Power on the Raspberry Pi and connect it to your external HDMI display.
 * Configure the initial username and password (e.g., Default Password: `123456`).
 * Connect to your local Wi-Fi network.
-
+<img src="https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/RaspberryPi4B-LED/RaspberryPi_05.jpg" width="600" />
 ---
 
 ## 🏃‍♂️ 三、 Specific Steps
