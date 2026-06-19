@@ -51,7 +51,7 @@ markdown
 
 ### 1. 🔌 Hardware Wiring
 Connect the Raspberry Pi 4B GPIO pins to the HUB75 interface on the LED screen. 
-<img src="https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/RaspberryPi4B-LED/c6682f05-2f69-4879-a49f-0623caa14f0d.png" width="500" />
+<img src="https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/RaspberryPi4B-LED/c6682f05-2f69-4879-a49f-0623caa14f0d.png" width="600" />
 > 💡 **Critical Instruction:** Just Connect Lines with Smiley Faces! 😊
 > Make sure to double-check each pin definition to avoid frying the logic chips.
 
