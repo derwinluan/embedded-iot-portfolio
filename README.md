@@ -57,8 +57,9 @@ Connect the Raspberry Pi 4B GPIO pins to the HUB75 interface on the LED screen.
 
 ### 2. 💾 Raspberry Pi OS Flashing
 1. Visit the official software page: [Raspberry Pi Imager](https://www.raspberrypi.com/software/).
-2. Download and install the Imager tool.
-3. Insert your MicroSD card, select **Raspberry Pi OS (64-bit)**, and click **Burn**.
+<img src="https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/RaspberryPi4B-LED/975c6ba4-b5b9-468e-9043-bb62a7aa5704.png" width="600" />
+3. Download and install the Imager tool.
+4. Insert your MicroSD card, select **Raspberry Pi OS (64-bit)**, and click **Burn**.
 
 ### 3. 🖥️ Initial Boot & Setup
 * Power on the Raspberry Pi and connect it to your external HDMI display.
