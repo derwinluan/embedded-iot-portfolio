@@ -69,8 +69,7 @@ Connect the Raspberry Pi 4B GPIO pins to the HUB75 interface on the LED screen.
 ---
 
 ## 🏃‍♂️ 三、 Specific Steps
-[![观看树莓派 LED 演示视频]([https://youtube.com](https://www.youtube.com/watch?v=PBej1xT8M1k))]([https://youtube.com](https://www.youtube.com/watch?v=PBej1xT8M1k))
-
+[![观看树莓派 LED 演示视频](https://youtube.com)](https://www.youtube.com/watch?v=PBej1xT8M1k)
 <img src="https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/RaspberryPi4B-LED/RaspberryPi_13.jpg" width="600" />
 <img src="https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/RaspberryPi4B-LED/RaspberryPi_08.jpg" width="600" />
 <img src="https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/RaspberryPi4B-LED/RaspberryPi_09.jpg" width="600" />
