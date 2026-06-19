@@ -39,7 +39,8 @@ This repository provides a comprehensive, step-by-step technical guide to lighti
 
 | Hardware Component | Description | Visual Reference |
 | :--- | :--- | :--- |
-| **Raspberry Pi 4B** | Main controller for managing the LED matrix GPIO timings. | 📷![RaspberryPi_01](https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/RaspberryPi4B-LED/RaspberryPi_01.jpg)
+markdown
+| **Raspberry Pi 4B** | Main controller for managing the LED matrix GPIO timings. | 📷  <img src="[https://githubusercontent.com](https://github.com/derwinluan/embedded-iot-portfolio/blob/main/image/RaspberryPi4B-LED/RaspberryPi_01.jpg)" width="200" />  ![RaspberryPi_01]()
 |
 | **64×64 LED Screen** | HUB75 interface RGB LED matrix panel. | 📷 *[Insert your LED screen image here]* |
 | **HDMI External Display** | Used for the initial setup of the Raspberry Pi OS. | 📷 *[Insert your monitor image here]* |
